@@ -1,6 +1,6 @@
 # PyCharm
 .idea/
-.DS_Store
+.env
 *.iml
 *.DS_Store
 
